@@ -1,0 +1,16 @@
+[
+    {
+        "id": "Empana de  Carne",
+        "productos": "super",
+        "relleno": "carne",
+        "Precio": "8.5",
+        "%paypal": "2.5"
+    },
+    {
+        "id": "Empanada de queso",
+        "proucto": "super",
+        "relleno": "queso",
+        "precio": "10.0",
+        "%paypal": "2.5"
+    }
+]
